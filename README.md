@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Created a basic login page with some animation using flutter. Flutter logo in the login page pops out on opening the app.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
